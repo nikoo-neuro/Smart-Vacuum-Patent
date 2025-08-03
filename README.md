@@ -29,7 +29,6 @@ CPC: A61F 5/05833
 Link to official WIPO page:
 https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021214522
 
-A full PDF of the patent and additional documents will be added here soon.
 
 Nikoo Khanahmadi
 Biomedical Engineer | Medical Device Inventor
